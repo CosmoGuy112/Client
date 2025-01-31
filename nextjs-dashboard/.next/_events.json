@@ -1,0 +1,1 @@
+[{"eventName":"NEXT_CLI_SESSION_STOPPED","payload":{"nextVersion":"15.2.0-canary.33","nodeVersion":"v22.13.1","cliCommand":"dev","durationMilliseconds":130693,"turboFlag":true,"pagesDir":false,"appDir":true}}]
